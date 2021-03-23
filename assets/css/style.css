@@ -62,7 +62,7 @@ footer h2 {
   }
 /* Hero Style */
 .hero {
-    background-image: url("../imgs/hero-bg.jpeg");
+    background-image: url("../imgs/flipped-hero.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
